@@ -1,2 +1,2 @@
 # xynok_products
-Xynok Products list.
+This repo is used for hosting released apps made by Xynok.
