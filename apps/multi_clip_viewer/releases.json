@@ -1,0 +1,17 @@
+[
+  {
+    "version": "0.1.1",
+    "tag": "multi_clip_viewer-v0.1.1",
+    "date": "2026-10-18",
+    "assets": [
+      {
+        "name": "MultiClipViewer-0.1.1-macos-universal.dmg",
+        "url": "https://github.com/Xynok-Engine/xynok_products/releases/download/multi_clip_viewer-v0.1.1/MultiClipViewer-0.1.1-macos-universal.dmg"
+      },
+      {
+        "name": "MultiClipViewer-0.1.1-macos-universal.zip",
+        "url": "https://github.com/Xynok-Engine/xynok_products/releases/download/multi_clip_viewer-v0.1.1/MultiClipViewer-0.1.1-macos-universal.zip"
+      }
+    ]
+  }
+]
